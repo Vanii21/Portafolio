@@ -18,7 +18,7 @@ const Footer = () => {
 
             <SocialFooter />
 
-            <span className="footer__copy">&#169; Crypticalcoder. All rigths reserved</span>
+            <span className="footer__copy">&#169; Vanii Alcantara. Ingeniero en Sistemas de Informacion</span>
         </div>
     </footer>
   )
