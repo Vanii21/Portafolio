@@ -22,7 +22,7 @@ const About = () => {
                     {data.map( ({icon, category, description}) => (<Info key={category} icon={icon} category={category} description={description}/>))}
                 </div>
 
-                <p className="about__description">Obtengo conocimientos sobre tecnologías TI en la administración y seguridad de los sistemas informáticos. Se que mi experiencia y alta capacidad me hace candidato ideal para ocupar el puesto asignado de tan prestigiosa empresa.</p>
+                <p className="about__description">Poseo conocimientos sobre tecnologías TI en la administración y seguridad de los sistemas informáticos. Se que mi experiencia y alta capacidad me hace candidato ideal para ocupar el puesto asignado de tan prestigiosa empresa.</p>
                 <a download="" href={CV} className="button button--flex">
                     Descargar
                     <img src={imgFile} alt="CV" />
