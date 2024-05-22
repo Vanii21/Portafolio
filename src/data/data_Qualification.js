@@ -8,13 +8,7 @@ const qualifications = [
                     lugar: 'Universidad Mariano Gálvez de Guatemala',
                     subtitle: 'Actualmente en el quinto año de la carrera / 9no. semestre.',
                     fecha: '2018 - presente',
-                },     
-                {
-                    title: 'Bachiller en Computación con Orientación Comercial',
-                    lugar: 'Colegio Sagrada Familia 1 ',
-                    subtitle: '2 años',
-                    fecha: '2016 - 2017',
-                },       
+                },            
             ],
     },
     {   
@@ -22,10 +16,9 @@ const qualifications = [
         category: 'Experiencia',
             list: [
                 {
-                    title: 'Docente de nivel medio (Programación y Tacs)',
-                    lugar: 'Colegio Sagrada Familia 1, Villahermosa 1',
-                    subtitle: '2 año',
-                    fecha: '2022-2023',
+                    title: 'Analista desarrollador',
+                    lugar: 'Multiproyectos PVC y Mas S.A ',
+                    fecha: '01/03/2020 - 15/11/2022',
                 },       
             ],
     },

@@ -1,8 +1,8 @@
 const services = [
     {
         icon: 'uil uil-arrow services__icon',
-        category: 'Programador\nJunior',
-        description: 'Obtengo 2 años trabajando en proyectos como programador jr',
+        category: 'Programador',
+        description: 'Obtengo experiencia trabajando en proyectos como programador',
             list: [
                 {itemList: 'Escribir código para aplicaciones de software, siguiendo especificaciones y estándares establecidos.'},
                 {itemList: 'Realizar pruebas unitarias y pruebas de integración para garantizar el funcionamiento correcto del código.'},
@@ -14,7 +14,7 @@ const services = [
     {
         icon: 'uil uil-servers services__icon',
         category: 'Soporte\nIT',
-        description: 'Obtengo 1 años de experiencia como tecnico de soporte IT',
+        description: 'Obtengo experiencia como tecnico de soporte IT',
             list: [
                 {itemList: 'Responder preguntas y resolver problemas técnicos de los usuarios finales.'},
                 {itemList: 'Realizar tareas de mantenimiento periódico en los sistemas informáticos para garantizar su funcionamiento óptimo y prevenir problemas futuros.'},
@@ -25,8 +25,8 @@ const services = [
     },
     {
         icon: 'uil uil-database services__icon',
-        category: 'DBA\nJr',
-        description: 'Obtengo 1 año de experiencia en la administrador de bases de datos como junior',
+        category: 'DBA\n',
+        description: 'Obtengo experiencia en la administrador de bases de datos',
             list: [
                 {itemList: 'Realizar tareas de mantenimiento rutinario en las bases de datos, como copias de seguridad, indexación y reorganización de datos.'},
                 {itemList: 'Ayudar en el monitoreo del rendimiento de las bases de datos para identificar cuellos de botella y realizar ajustes para mejorar el rendimiento.'},

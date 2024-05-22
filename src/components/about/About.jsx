@@ -1,6 +1,5 @@
 import './about.css';
 import data from '../../data/data_About.js';
-import AboutImg from '../../assets/profile.png';
 import imgFile from '../../assets/file.svg'
 import CV from '../../assets/CV.pdf';
 import Info from './Info';
@@ -14,7 +13,6 @@ const About = () => {
         <span className="section__subtitle">Mi experiencia profesional</span>
 
         <div className="about__container container grid">
-            <img src={AboutImg} alt="" className="about__img" />
 
             <div className="about__data">
               

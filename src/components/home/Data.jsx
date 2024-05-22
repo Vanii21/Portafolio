@@ -8,7 +8,7 @@ const Data = () => {
             Vanii Alcantara
             <img className="home__imgProgram" src={imgProgram} alt="Program" />
         </h1>
-        <h3 className="home__subtitle">Programador Jr</h3>
+        <h3 className="home__subtitle">Analista Programador</h3>
         <p className="home__description">Soy una persona reciliente y comprometida a mi carrera, tengo la capacidad de crear sistemas funcionales, escalable y mantenibles.</p>
 
         <a href="https://t.me/VaniiAlcantara" target='_blank' className="button button--flex">
