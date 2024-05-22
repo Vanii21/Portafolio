@@ -1,16 +1,15 @@
 .about__container{
-    grid-template-columns: repeat(2, 1fr);
-    align-items: center;
-    column-gap: 4rem;
+    justify-content: center;
 }
 
 .about__data{
-    align-items: center;
+    text-align: center;
 }
 
 .about__info{
     grid-template-columns: repeat(3, 140px);
-    gap: 0.5rem;
+    gap: 5.5rem;
+    justify-content: center;
     margin-bottom: var(--mb-2);
 }
 
@@ -19,7 +18,7 @@
     border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 0.75rem;
     text-align: center;
-    padding: 1rem 1.25rem;
+    padding: 1.5rem 1.25rem;
 }
 
 .about__icon{
@@ -38,8 +37,9 @@
 }
 
 .about__description{
-    padding: 0 4rem 0 0;
+    padding: 1.5rem 5rem;
     margin-bottom: var(--mb-2-5);
+    text-align: center;
 }
 
 /* ======== BREAKPOINTS ========== */
